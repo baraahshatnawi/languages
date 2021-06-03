@@ -1,6 +1,7 @@
 alert("Welcome!Here is your chance to satisfy your CURIOSITY!")
 alert("You are in BARAAH's Website")
 
+
 let ready = prompt("ARE YOU READY?")
 
 alert(ready)
@@ -45,12 +46,6 @@ for(let i=0;i<attempt;i++){
   break;
   }
 }
-
-
-
-
-
-
 
 
 
