@@ -6,7 +6,6 @@
 
 
 header{
-<<<<<<< HEAD
   background-color: #800000;
   color: black;
   height: 150px;
@@ -34,13 +33,10 @@ main {
 
 #section1 {
   font-family: Brush Script MT , cursive;
-
 }
 
 #section2 {
   font-family: Brush Script MT , cursive;
-=======
-  background-color: yellow;
   color:black;
   height: 150px;
 
@@ -49,11 +45,6 @@ nav {
 float: right
 }
 
-section1 {
-
-}
-
-section2 {
- 
->>>>>>> e3e4fbdc3fc183269a3f123de2737a1b1dc14b5c
+footer {
+  text-align: center;
 }
