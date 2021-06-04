@@ -40,11 +40,14 @@ main {
 
 #section1 {
   font-family: Brush Script MT , cursive;
+<<<<<<< HEAD
   background-color: rgb(224, 216, 216);
   width: 400px;
   border: 15px #800000;
   padding: 50px;
   margin: 50px;
+=======
+>>>>>>> 0e00c0d329ddfd4477e88b15db8f59a23786ab20
 }
 
 #section2 {
