@@ -1,4 +1,5 @@
-alert("Welcome!Here is your chance to satisfy your CURIOSITY!")
+function sayWelcome(){ 
+  alert("Welcome!Here is your chance to satisfy your CURIOSITY!")
 alert("You are in BARAAH's Website")
 
 
@@ -11,7 +12,11 @@ if (ready == 'yes') {
 else {
   alert('WHY ARE HERE!')
 }
+}
 
+
+
+function quickQuiz(){
 alert("There are 6,500 languages spoken in the world today. Each and every one of them make the world a diverse and beautiful place")
 
 let answer = prompt("How many languages are there in the world?")
@@ -46,6 +51,8 @@ for(let i=0;i<attempt;i++){
   break;
   }
 }
+}
 
+sayWelcome();
 
-
+quickQuiz();
